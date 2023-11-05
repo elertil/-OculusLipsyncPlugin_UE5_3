@@ -6,6 +6,13 @@ Cheers to PDDDDDDDDDDD123 aka DacDacDac from https://forums.unrealengine.com/t/a
 
 This plugin allows you to synchronize the lips of 3D characters in your game with audio in real-time, using the Oculus LipSync technology.
 
+# How to Extract
+
+Use 7Zip - Right click button on first file - 7Zip - extract to Oculus_LipSync_UE_5.3/
+
+![image](https://github.com/elertil/-OculusLipsyncPlugin_UE5_3/assets/100329624/2327d946-4732-4f0c-bfb3-b43fac72bddb)
+
+
 # How to Install
 
 Extract .zip file and add plugin to your project folder ...\Project\Plugins\
